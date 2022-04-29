@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: whitesmoke;
+}
+header,
+main,
+footer {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+article {
+  border-radius: 15px;
+  background-color: lightgray;
+  max-width: 600px;
+  margin: 5px;
+  padding: 10px;
+}
